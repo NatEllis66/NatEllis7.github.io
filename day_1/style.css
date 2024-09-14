@@ -25,8 +25,8 @@ ul {
 }
 
 body>header {
-    background-color: orange;
-    color: #ffeee4;
+    background-color: #000000;
+    color: white;
     display: flex;
     height: 10vh;
     align-items: center;
@@ -78,7 +78,8 @@ h2 {
 }
 
 body>footer {
-    background-color: orange;
+    background-color: #000000;
+    color: white;
     display: flex;
 }
 
